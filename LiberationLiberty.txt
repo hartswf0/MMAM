@@ -1,0 +1,62 @@
+{
+ "CurrentState": {
+   "Layer1": {
+     "Sub1": {
+       "A": "Spiritual Freedom (Liberation) is unconditional freedom from suffering through self-realization and transcendence of the mind's limitations.",
+       "B": "Worldly Freedom (Liberty) is being free from external oppressive restrictions imposed by authority on one's way of life."
+     },
+     "Sub2": {
+       "C": "Liberation and Liberty are interdependent pathways to true freedom. One without the other is incomplete.",
+       "D": "The pathways of Liberation and Liberty can merge through compassionate action by enlightened individuals to alleviate suffering and oppression in the world."
+     }
+   }
+ },
+ "PreviousState": {
+   "Layer1": {
+     "Sub1": {
+       "A": "Liberation Traditions like Buddhism teach that seeking worldly freedom causes suffering, and one must look inward for spiritual freedom.",
+       "B": "Dogmatic Religions make freedom conditional on following rules, punishing disobedience, and suppressing 'free spirits'."
+     },
+     "Sub2": {
+       "C": "Isaiah Berlin's concept of Negative Liberty (freedom from constraints) and Positive Liberty (freedom to pursue goals) outline a framework for collective worldly freedom.",
+       "D": "An imbalance towards seeking only Worldly Freedom can lead to hedonism, while an imbalance towards only Spiritual Freedom risks ignoring oppression and suffering in the world."
+     }
+   }
+ },
+ "Version": "2.0",
+ "ChangeLog": [
+   {
+     "Version": "1.0",
+     "Layer1": {
+       "Sub1": {
+         "A": "Freedom is an essential spiritual quality that must be cultivated within.",
+         "B": "Worldly freedom (liberty) is different from spiritual freedom (liberation)."
+       },
+       "Sub2": {
+         "C": "Seeking worldly freedom paradoxically causes suffering according to some traditions.",
+         "D": "An imbalance towards either liberty or liberation leads to incompleteness."
+       }
+     }
+   }
+ ],
+ "RecursionDepth": "2",
+ "Assumptions": {
+   "Sub1A": [
+     "The mind is a source of suffering and limitations",
+     "Self-realization and transcendence of the mind lead to freedom from suffering"
+   ],
+   "Sub1B": [
+     "External authorities can impose oppressive restrictions on individuals",
+     "Freedom is the absence of such oppressive restrictions"
+   ],
+   "Sub2C": [
+     "True freedom requires both inner spiritual liberation and outer worldly liberty",
+     "Neither liberation nor liberty alone is sufficient for complete freedom"
+   ],
+   "Sub2D": [
+     "Enlightened individuals have a compassionate drive to alleviate suffering",
+     "Their spiritual freedom enables effective action in the world",
+     "Merging inner and outer freedom is the ideal path"
+   ]
+ }
+}
