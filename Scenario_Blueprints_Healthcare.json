@@ -1,0 +1,169 @@
+{
+  "Scenario_Blueprint": {
+    "Medicaid_Plan_User": {
+      "Previous_Scene": {
+        "who": "Individual from a low-income family",
+        "what": "Struggling with healthcare access due to financial constraints",
+        "when": "Before enrollment in Medicaid",
+        "where": "At home, possibly facing health issues without insurance",
+        "why": "Lack of affordable healthcare options",
+        "how": "Limited knowledge about available government-assisted programs"
+      },
+      "Current_Scene": {
+        "who": "Same individual, now enrolled in Medicaid",
+        "what": "Accessing necessary healthcare services",
+        "when": "After successful Medicaid enrollment",
+        "where": "At a healthcare facility accepting Medicaid",
+        "why": "Medicaid provides affordable healthcare options",
+        "how": "Through the Medicaid enrollment process and coverage"
+      },
+      "Update_Scene": {
+        "who": "Individual benefiting from Medicaid",
+        "what": "Receiving ongoing healthcare, monitoring health improvements",
+        "when": "Ongoing healthcare management",
+        "where": "Regular visits to a primary care physician and specialists",
+        "why": "Continuous access to healthcare ensures better management of health conditions",
+        "how": "Utilizing Medicaid's comprehensive coverage for various health needs"
+      }
+    },
+    "Medicare_Plan_User": {
+      "Previous_Scene": {
+        "who": "Elderly individual without Medicare",
+        "what": "Facing challenges in managing health care in older age",
+        "when": "Before enrolling in Medicare",
+        "where": "At home or a healthcare facility",
+        "why": "Lack of comprehensive healthcare coverage",
+        "how": "Dealing with the complexity of healthcare needs and costs"
+      },
+      "Current_Scene": {
+        "who": "Same elderly individual, enrolled in Medicare",
+        "what": "Accessing a range of healthcare services",
+        "when": "After enrolling in Medicare",
+        "where": "Various healthcare facilities, including hospitals and clinics",
+        "why": "Medicare provides necessary healthcare coverage for seniors",
+        "how": "Through Medicare's structured benefits and network of providers"
+      },
+      "Update_Scene": {
+        "who": "Senior benefiting from Medicare",
+        "what": "Regular health check-ups, treatments, and preventive care",
+        "when": "Routine healthcare management",
+        "where": "Ongoing engagement with healthcare providers",
+        "why": "To maintain and improve health in senior years",
+        "how": "By utilizing the comprehensive coverage offered by Medicare"
+      }
+    },
+    "Chip_Plan_User": {
+      "Previous_Scene": {
+        "who": "Child in a family without CHIP",
+        "what": "Limited access to pediatric healthcare",
+        "when": "Before enrollment in CHIP",
+        "where": "Home or community setting",
+        "why": "Family's income too high for Medicaid but too low for private insurance",
+        "how": "Lack of affordable healthcare options for children"
+      },
+      "Current_Scene": {
+        "who": "Same child, now enrolled in CHIP",
+        "what": "Receiving regular pediatric care and vaccinations",
+        "when": "After successful CHIP enrollment",
+        "where": "At a pediatrician's office or healthcare facility",
+        "why": "CHIP provides affordable healthcare coverage for children",
+        "how": "Through the program's benefits tailored for pediatric healthcare needs"
+      },
+      "Update_Scene": {
+        "who": "Child benefiting from CHIP",
+        "what": "Ongoing healthcare, including preventive and emergency care",
+        "when": "Regular healthcare visits and in times of health crises",
+        "where": "Healthcare facilities offering pediatric services",
+        "why": "To ensure the child's health and well-being throughout childhood",
+        "how": "By leveraging CHIP's comprehensive coverage for children's healthcare"
+      }
+    }
+  }
+}
+
+
+{
+  "Alternate_Scenario_Blueprint": {
+    "Medicaid_Plan_User": {
+      "Incentive": "Increased coverage for preventive care and mental health services",
+      "Previous_Scene": {
+        "who": "Individual from a low-income family",
+        "what": "Limited access to preventive care and mental health services",
+        "when": "Before the incentive was introduced",
+        "where": "Community with limited healthcare resources",
+        "why": "Existing Medicaid coverage limitations",
+        "how": "Facing health issues without adequate care"
+      },
+      "Current_Scene": {
+        "who": "Same individual, post-incentive implementation",
+        "what": "Utilizing expanded preventive and mental health services",
+        "when": "After expansion of Medicaid coverage",
+        "where": "Healthcare facilities offering new services",
+        "why": "Incentive provides broader healthcare options",
+        "how": "Accessing new services under enhanced Medicaid coverage"
+      },
+      "Update_Scene": {
+        "who": "Individual benefitting from expanded services",
+        "what": "Improved health outcomes, particularly in preventive care and mental health",
+        "when": "Ongoing health management",
+        "where": "Regular health check-ups and mental health support services",
+        "why": "Enhanced coverage leads to better health and well-being",
+        "how": "Regular use of newly available healthcare services"
+      }
+    },
+    "Medicare_Plan_User": {
+      "Incentive": "Introduction of a new wellness program",
+      "Previous_Scene": {
+        "who": "Elderly individual on standard Medicare plan",
+        "what": "Lack of comprehensive wellness and lifestyle support",
+        "when": "Before the wellness program was launched",
+        "where": "Home or community center",
+        "why": "Medicare focusing mainly on medical treatments rather than holistic wellness",
+        "how": "Managing health with limited support for lifestyle improvements"
+      },
+      "Current_Scene": {
+        "who": "Same individual, enrolled in the wellness program",
+        "what": "Participating in activities and resources promoting overall wellness",
+        "when": "After enrolling in the new wellness program",
+        "where": "Wellness centers, online platforms, community gatherings",
+        "why": "Program incentivizes and supports a holistic approach to senior health",
+        "how": "Engaging in physical, mental, and social wellness activities"
+      },
+      "Update_Scene": {
+        "who": "Senior actively engaged in the wellness program",
+        "what": "Improved physical and mental well-being, increased social interactions",
+        "when": "Regular participation in the program",
+        "where": "Various settings offering program activities",
+        "why": "Ongoing involvement in wellness activities promotes better overall health",
+        "how": "Continued use of wellness program resources and activities"
+      }
+    },
+    "Chip_Plan_User": {
+      "Incentive": "Addition of educational support services for children",
+      "Previous_Scene": {
+        "who": "Child in a family enrolled in CHIP",
+        "what": "Lack of educational support related to health and wellness",
+        "when": "Before the introduction of educational support services",
+        "where": "Home or school environment",
+        "why": "CHIP coverage limited to basic healthcare services",
+        "how": "Navigating health challenges without educational guidance"
+      },
+      "Current_Scene": {
+        "who": "Same child, with access to new educational services",
+        "what": "Engaging in health and wellness educational programs",
+        "when": "After implementation of the incentive",
+        "where": "Schools, online platforms, community centers",
+        "why": "Incentive expands CHIP benefits to include educational support",
+        "how": "Participating in educational activities that promote health awareness"
+      },
+      "Update_Scene": {
+        "who": "Child benefiting from educational resources",
+        "what": "Improved health literacy, adoption of healthy habits",
+        "when": "Regular engagement with educational programs",
+        "where": "Various educational settings and health workshops",
+        "why": "Educational support helps in forming a foundation for lifelong healthy behaviors",
+        "how": "Active participation in health education and wellness activities"
+      }
+    }
+  }
+}
