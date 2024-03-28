@@ -1,0 +1,42 @@
+{
+  "Luhmann_Systems_Theory_Structure": {
+    "Overall_System": {
+      "description": "Recuperation of Silenced Histories",
+      "characteristics": "Reviving and amplifying suppressed narratives in design settings",
+      "Key_Concept": "Restoring visibility to historically marginalized or obscured narratives",
+      "Argument": "Unveils the invisible labor and histories integral to design practice",
+      "Historic_Precedent": "Inspired by bell hooks' advocacy for a radical aesthetics that recovers subjugated African-American experiences",
+      "Critique": "Potential risks of solidifying narratives of oppression or misappropriating marginalized histories",
+      "Key_Features": "Excavating silenced stories, amplifying subtle narratives, challenging historical forgetfulness",
+      "subsystems": {
+        "Ecologies_of_Memory_Memorial": {
+          "description": "Memorial by Sara Zewde acknowledging the transatlantic slave trade",
+          "functions": [
+            "Uses African plant species to memorialize the slave trade in the Americas",
+            "Design inspired by the transformative impact of Africans on American landscapes",
+            "Aims to make visible the hidden histories and ongoing legacies of the slave trade",
+            "Creates a sensory connection to the lived experiences and ecological influences of the slave trade",
+            "Seeks to disrupt the invisibility of these histories and honor the agency of enslaved Africans"
+          ],
+          "sources": ["https://www.nytimes.com/2024/03/05/arts/design/sara-zewde-dia-beacon-landscape.html", "https://www.youtube.com/watch?v=dpf2rJETDjc"]
+        }
+      }
+    },
+    "System_Environment_Boundaries": {
+      "description": "Delineation between the memorial space and broader societal contexts",
+      "importance": "Emphasizes the distinct role of the memorial in uncovering and contextualizing suppressed histories"
+    },
+    "Autopoietic_Systems": {
+      "description": "The memorial dynamically interacts with societal perceptions of history",
+      "application": "Demonstrated through the evolving recognition and interpretation of the memorial's narrative"
+    },
+    "Communication_Processes": {
+      "description": "Essential for articulating and disseminating the reclaimed narratives",
+      "application": "Facilitated through the memorial's design and public engagement strategies"
+    },
+    "Reduced_Complexity": {
+      "description": "Simplifies the complex history of the slave trade for public understanding and reflection",
+      "mechanism": "Achieved by focusing on specific symbolic elements like African plants to convey broader historical narratives"
+    }
+  }
+}
