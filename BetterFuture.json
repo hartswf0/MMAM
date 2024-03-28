@@ -1,0 +1,92 @@
+{
+ "CurrentState": {
+   "Layer1": {
+     "Sub1": {
+       "A": "∃BetterFuture ⇐ DeliberateAction",
+       "B": "Hope ⇒ Vision ∧ Strategy ∧ PositiveChange"
+     },
+     "Sub2": {
+       "C": "Hope ≠ Faith. Faith ⇐ Certainty ∧ DivineTrust",
+       "D": "∀JusticeStruggle: Hope ∧ Faith"
+     }
+   },
+   "Layer2": {
+     "Sub1A": {
+       "A": "BetterFuture ⇒ ¬¬DeliberateAction",
+       "B": "Hope ≡ SustainedWork ⇒ BetterFuture"
+     },
+     "Sub1B": {
+       "A": "Hope ⇒ ¬PassiveOptimism",
+       "B": "Hope ⇒ StrategicAction ∧ DesiredGoals"
+     },
+     "Sub2C": {
+       "A": "Faith ≡ Certainty ∧ DivineTrust ⇒ InevitableOutcomes",
+       "B": "Hope ≡ PossibleOutcomes ⇒ HumanAgency"
+     },
+     "Sub2D": {
+       "A": "Hope ∧ Faith ⇒ ComplementaryForces",
+       "B": "FaithWavers ⇒ Hope ⇒ PossibleChange",
+       "C": "HopeFutile ⇒ Faith ⇒ Perseverance"
+     }
+   }
+ },
+ "PreviousState": {
+   "Layer1": {
+     "Sub1": {
+       "A": "Author ∈ DangerousSituations",
+       "B": "DangerousSituations ⇒ ReflectionOnRisks"
+     },
+     "Sub2": {
+       "C": "¬FearOfDeath ⇒ UnderstandFaith ∧ UnderstandHope",
+       "D": "Faith ≡ InevitableOutcomes. Hope ≡ PossibleOutcomes ∧ Action"
+     }
+   }
+ },
+ "Version": "3.0",
+ "ChangeLog": [
+   {
+     "Version": "1.0",
+     "Layer1": {
+       "Sub1": {
+         "A": "Author ∈ DangerousSituations",
+         "B": "DangerousSituations ⇒ ReflectionOnRisks"
+       },
+       "Sub2": {
+         "C": "DistinguishFaith ∧ DistinguishHope",
+         "D": "Faith ≡ InevitableOutcomes. Hope ≡ PossibleOutcomes"
+       }
+     }
+   },
+   {
+     "Version": "2.0",
+     "Layer1": {
+       "Sub1": {
+         "A": "Hope ≡ BetterFuture ⇐ DeliberateAction",
+         "B": "Hope ⇒ Vision ∧ Strategy ∧ PositiveChange"
+       },
+       "Sub2": {
+         "C": "Hope ≠ Faith. Faith ⇐ Certainty ∧ DivineTrust",
+         "D": "∀JusticeStruggle: Hope ∧ Faith"
+       }
+     },
+     "Layer2": {
+       "Sub1A": {
+         "A": "BetterFuture ⇒ ¬¬DeliberateAction",
+         "B": "Hope ≡ SustainedWork ⇒ BetterFuture"
+       },
+       "Sub1B": {
+         "A": "Hope ⇒ ¬PassiveOptimism",
+         "B": "Hope ⇒ StrategicAction ∧ DesiredGoals"
+       },
+       "Sub2C": {
+         "A": "Faith ≡ Certainty ∧ DivineTrust ⇒ InevitableOutcomes",
+         "B": "Hope ≡ PossibleOutcomes ⇒ HumanAgency"
+       },
+       "Sub2D": {
+         "A": "Hope ∧ Faith ⇒ ComplementaryForces",
+         "B": "FaithWavers ⇒ Hope ⇒ PossibleChange",
+         "C": "HopeFutile ⇒ Faith ⇒ Perseverance"
+       }
+     }
+   }
+ ],
