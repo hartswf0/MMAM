@@ -1,0 +1,34 @@
+{
+  "MakerModel": {
+    "description": "System that generates prompts to create and evolve the ArtifactModel",
+    "GeneratePromptForArtifactModel": {
+      "prompt1": "Describe your initial structure.",
+      "prompt2": "What is your method of operation?",
+      "prompt3": "How will you evolve in response to external stimuli?"
+      // More prompts as needed...
+    },
+    "ReceiveCompletionFromArtifactModel": {
+      // Completions from ArtifactModel are processed here and can be turned into new prompts
+    }
+  },
+  "ArtifactModel": {
+    "description": "System created and evolved in response to prompts from the MakerModel",
+    "RespondToMakerModel": {
+      "completion1": "My initial structure includes dynamic components A, B, and C.",
+      "completion2": "My operational method involves processes X, Y, and Z.",
+      "completion3": "I evolve by adapting to stimuli through feedback loops and modifications."
+      // More completions as needed...
+    },
+    "GeneratePromptForMakerModel": {
+      // Transformations of completions into prompts for MakerModel
+    }
+  },
+  "InceptionPrompting": {
+    "MakerModelToArtifactModel": {
+      // Process where completions from MakerModel become prompts for ArtifactModel
+    },
+    "ArtifactModelToMakerModel": {
+      // Process where completions from ArtifactModel become prompts for MakerModel
+    }
+  }
+}
