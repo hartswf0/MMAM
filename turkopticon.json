@@ -1,0 +1,51 @@
+{
+  "Luhmann_Systems_Theory_Structure": {
+    "Overall_System": {
+      "description": "Alliances as Collective Inquiry",
+      "characteristics": "Building collaborative relationships across differences",
+      "Key_Concept": "Forming alliances to facilitate collective inquiry and action",
+      "Argument": "Enables collective work, unsettling traditional dichotomies between researcher/subject and designer/user",
+      "Historic_Precedent": "Inspired by 'string figuring' in children's games, symbolizing collaborative work",
+      "Critique": "Potential risk of appropriating or invisibilizing group concerns",
+      "Key_Features": "Decentralized, collaborative, acknowledging difference",
+      "subsystems": {
+        "Turkopticon": {
+          "description": "Review website and advocacy organization for AMT workers",
+          "functions": [
+            "Provides a platform for workers to share information about requesters and tasks",
+            "Acts as a safety net to help workers avoid unfair work situations",
+            "Evolved into a worker-led organization advocating for AMT workers' rights",
+            "Enhances Amazon Mechanical Turk's functionality for better worker protection"
+          ],
+          "sources": ["https://turkopticon.net"]
+        },
+        "Dynamo": {
+          "description": "Platform for collective action among the Mechanical Turk community",
+          "functions": [
+            "Supports the formation of publics around issues for collective action",
+            "Lowers communication barriers for distributed collectives",
+            "Facilitates discussion, idea generation, and campaigns for AMT workers",
+            "Attracts motivated individuals for collaboration and activism"
+          ],
+          "sources": ["https://tusharc.dev/papers/we_are_dynamo_salehi.html"]
+        }
+      }
+    },
+    "System_Environment_Boundaries": {
+      "description": "Boundary delineation between the platform and wider societal contexts",
+      "importance": "Differentiates platform-specific collective actions from broader societal issues"
+    },
+    "Autopoietic_Systems": {
+      "description": "Platforms are self-organizing and evolving in response to workers' needs",
+      "application": "Demonstrated by Turkopticon's evolution from a review site to an advocacy organization"
+    },
+    "Communication_Processes": {
+      "description": "Crucial for coordination and collaboration within the platform",
+      "application": "Enabled by tools for discussion, review sharing, and campaign organization"
+    },
+    "Reduced_Complexity": {
+      "description": "Platforms simplify the complexity of collective action in a distributed environment",
+      "mechanism": "By offering structured ways for communication and decision-making among dispersed individuals"
+    }
+  }
+}
