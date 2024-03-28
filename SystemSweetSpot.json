@@ -1,0 +1,93 @@
+"CurrentState": {
+   "Layer1": {
+     "Sub1": {
+       "A": "∃SystemSweetSpot ⇐ AlignedOperatingModel",
+       "B": "SystemSweetSpot ⇒ OptimalImpact ∧ SustainedChange"
+     },
+     "Sub2": {
+       "C": "PartnershipConditions ≡ SharedVision ∧ CapableOfficials ∧ TechnicalInterventions ∧ SystemHygiene",
+       "D": "PartnershipConditions ⇒ OpenDialogue ∧ TrustBuilding"
+     }
+   },
+   "Layer2": {
+     "Sub1A": {
+       "A": "AlignedOperatingModel ≡ Values ∧ Measurement ∧ PeopleDevelopment",
+       "B": "AlignedOperatingModel ⇒ SystemLearningPartnership"
+     },
+     "Sub1B": {
+       "A": "OptimalImpact ≡ DirectImpact ∧ AmplifiedImpact ∧ StructuralImpact",
+       "B": "DirectImpact ⇒ EngagedLearners. AmplifiedImpact ⇒ DeepTechnicalAdoption. StructuralImpact ⇒ SustainedMotivation"
+     },
+     "Sub2C": {
+       "A": "SharedVision ⇒ PrioritizedGoals",
+       "B": "CapableOfficials ⇒ DeliveryManagement",
+       "C": "TechnicalInterventions ⇒ AmplifiedEffectiveness",
+       "D": "SystemHygiene ⇒ ¬Demotivation"
+     },
+     "Sub2D": {
+       "A": "OpenDialogue ⇒ HonestConversation ∧ ChallengeIdentification",
+       "B": "TrustBuilding ⇒ SmartWorkarounds ∧ SystemImprovement"
+     }
+   }
+ },
+ "PreviousState": {
+   "Layer1": {
+     "Sub1": {
+       "A": "InitialApproach ≡ IntrinsicMotivation ∧ AdaptiveStrategy",
+       "B": "AdaptiveStrategy ⇒ PartnerConfusion ∧ SelfConfusion"
+     },
+     "Sub2": {
+       "C": "Patience ∧ Earnestness ⇒ SweetSpotDiscovery",
+       "D": "SweetSpotDiscovery ⇒ LessonsLearned ∧ GuidingPrinciples"
+     }
+   }
+ },
+ "Version": "3.0",
+ "ChangeLog": [
+   {
+     "Version": "1.0",
+     "Layer1": {
+       "Sub1": {
+         "A": "InitialApproach ≡ IntrinsicMotivation ∧ AdaptiveStrategy",
+         "B": "AdaptiveStrategy ⇒ PartnerConfusion ∧ SelfConfusion"
+       },
+       "Sub2": {
+         "C": "Patience ∧ Earnestness ⇒ SweetSpotDiscovery",
+         "D": "SweetSpotDiscovery ⇒ LessonsLearned ∧ GuidingPrinciples"
+       }
+     }
+   },
+   {
+     "Version": "2.0",
+     "Layer1": {
+       "Sub1": {
+         "A": "∃SystemSweetSpot ⇐ AlignedOperatingModel",
+         "B": "SystemSweetSpot ⇒ OptimalImpact ∧ SustainedChange"
+       },
+       "Sub2": {
+         "C": "PartnershipConditions ≡ SharedVision ∧ CapableOfficials ∧ TechnicalInterventions ∧ SystemHygiene",
+         "D": "PartnershipConditions ⇒ OpenDialogue ∧ TrustBuilding"
+       }
+     },
+     "Layer2": {
+       "Sub1A": {
+         "A": "AlignedOperatingModel ≡ Values ∧ Measurement ∧ PeopleDevelopment",
+         "B": "AlignedOperatingModel ⇒ SystemLearningPartnership"
+       },
+       "Sub1B": {
+         "A": "OptimalImpact ≡ DirectImpact ∧ AmplifiedImpact ∧ StructuralImpact",
+         "B": "DirectImpact ⇒ EngagedLearners. AmplifiedImpact ⇒ DeepTechnicalAdoption. StructuralImpact ⇒ SustainedMotivation"
+       },
+       "Sub2C": {
+         "A": "SharedVision ⇒ PrioritizedGoals",
+         "B": "CapableOfficials ⇒ DeliveryManagement",
+         "C": "TechnicalInterventions ⇒ AmplifiedEffectiveness",
+         "D": "SystemHygiene ⇒ ¬Demotivation"
+       },
+       "Sub2D": {
+         "A": "OpenDialogue ⇒ HonestConversation ∧ ChallengeIdentification",
+         "B": "TrustBuilding ⇒ SmartWorkarounds ∧ SystemImprovement"
+       }
+     }
+   }
+ ],
