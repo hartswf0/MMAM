@@ -1,0 +1,58 @@
+{
+"CurrentState": {
+"Layer1": {
+"Sub1": {
+"A": "∃SweetSpotBalance ⇐ RejectingExtremes",
+"B": "SweetSpotBalance ⇒ CultivatingMasculineVirtues ∧ RetainingPositiveCivilizedElements"
+},
+"Sub2": {
+"C": "HyperCivilizationConstraints ≡ PettyRegulation ∧ LackOfMeaning ∧ NumbingEntertainment",
+"D": "TotalRewilding ⇒ RejectingAllCivilization ∧ PrimitiveLiving"
+}
+},
+"Layer2": {
+"Sub1B": {
+"A": "CultivatingMasculineVirtues ≡ Strength ∧ Courage ∧ Mastery ∧ Honor",
+"B": "Strength ⇒ PhysicalCapability. Courage ⇒ Bravery. Mastery ⇒ Competence. Honor ⇒ Integrity"
+},
+"Sub2C": {
+"A": "RetainingPositiveCivilizedElements ⇒ AppreciatingMaterialCulture",
+"B": "AppreciatingMaterialCulture ⇒ Firearms ∧ Transportation ∧ Technology",
+"C": "RetainingPositiveCivilizedElements ⇒ IntellectualPursuits",
+"D": "RetainingPositiveCivilizedElements ⇒ SocialRefinements"
+}
+}
+},
+"PreviousState": {
+"Layer1": {
+"Sub1": {
+"A": "OvercorrectionRisk ≡ ExcessiveConstraints ∨ ExcessiveRejectionOfCivilization",
+"B": "ExcessiveConstraints ⇒ EmasculatingForces. ExcessiveRejectionOfCivilization ⇒ PrimitiveLiving"
+}
+}
+},
+"Version": "3.0",
+"ChangeLog": [
+{
+"Version": "1.0",
+"Layer1": {
+"Sub1": {
+"A": "OvercorrectionRisk ≡ ExcessiveConstraints ∨ ExcessiveRejectionOfCivilization",
+"B": "ExcessiveConstraints ⇒ EmasculatingForces. ExcessiveRejectionOfCivilization ⇒ PrimitiveLiving"
+}
+}
+},
+{
+"Version": "2.0",
+"Layer1": {
+"Sub1": {
+"A": "∃SweetSpotBalance ⇐ RejectingExtremes",
+"B": "SweetSpotBalance ⇒ CultivatingMasculineVirtues ∧ RetainingPositiveCivilizedElements"
+},
+"Sub2": {
+"C": "HyperCivilizationConstraints ≡ PettyRegulation ∧ LackOfMeaning ∧ NumbingEntertainment",
+"D": "TotalRewilding ⇒ RejectingAllCivilization ∧ PrimitiveLiving"
+}
+}
+}
+],
