@@ -1,0 +1,43 @@
+{
+ "CurrentState": {
+   "Layer1": {
+     "Sub1": {
+       "A": "V1",
+       "B": "V2"
+     },
+     "Sub2": {
+       "C": "V3",
+       "D": "V4"
+     }
+   }
+ },
+ "PreviousState": {
+   "Layer1": {
+     "Sub1": {
+       "A": "OV1",
+       "B": "OV2"
+     },
+     "Sub2": {
+       "C": "OV3",
+       "D": "OV4"
+     }
+   }
+ },
+ "Version": "2.0",
+ "ChangeLog": [
+   {
+     "Version": "1.0",
+     "Layer1": {
+       "Sub1": {
+         "A": "OV1",
+         "B": "OV2"
+       },
+       "Sub2": {
+         "C": "OV3",
+         "D": "OV4"
+       }
+     }
+   }
+ ],
+ "RecursionDepth": "2"
+}
