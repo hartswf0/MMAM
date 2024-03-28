@@ -1,0 +1,72 @@
+{
+  "CurrentState": {
+    "Layer1": {
+      "Sub1": {
+        "A": "Liberation ⇔ Loss & Despair",
+        "B": "Liberation ⇒ Isolation & New Community"
+      },
+      "Sub2": {
+        "C": "RestrictedByCommunity ≡ Tradition & Denial",
+        "D": "Liberation ⇒ FreedomToSpreadEarthseed"
+      }
+    },
+    "Layer2": {
+      "Sub1A": {
+        "A": "Loss & Despair ≡ Destruction & FamilyDeath",
+        "B": "Loss & Despair ⇒ LiberationMotivation"
+      },
+      "Sub1B": {
+        "A": "Isolation ≡ Independence & TrustIssues",
+        "B": "New Community ≡ Openness & SharedBeliefs"
+      },
+      "Sub2C": {
+        "A": "Tradition & Denial ≡ FalseSecurity & StifledIdeas",
+        "B": "RestrictedByCommunity ⇒ InabilityToSpreadEarthseed"
+      },
+      "Sub2D": {
+        "A": "FreedomToSpreadEarthseed ≡ EarthseedGrowth & NewFollowers",
+        "B": "FreedomToSpreadEarthseed ⇒ Responsibility & BuildingTrust"
+      }
+    }
+  },
+  "PreviousState": {
+    "Layer1": {
+      "Sub1": {
+        "A": "LaurenWithinRobledo ≡ StifledPotential & UnexpressedIdeas",
+        "B": "LaurenWithinRobledo ⇒ Disrespected & Isolated"
+      },
+      "Sub2": {
+        "C": "",
+        "D": ""
+      }
+    }
+  },
+  "Version": "3.0",
+  "ChangeLog": [
+    {
+      "Version": "1.0",
+      "Layer1": {
+        "Sub1": {
+          "A": "LaurenWithinRobledo ≡ StifledPotential & UnexpressedIdeas",
+          "B": "LaurenWithinRobledo ⇒ Disrespected & Isolated"
+        },
+        "Sub2": {
+          "C": "",
+          "D": ""
+        }
+      }
+    },
+    {
+      "Version": "2.0",
+      "Layer1": {
+        "Sub1": {
+          "A": "Liberation ⇔ Loss & Despair",
+          "B": "Liberation ⇒ Isolation & New Community"
+        },
+        "Sub2": {
+          "C": "RestrictedByCommunity ≡ Tradition & Denial",
+          "D": "Liberation ⇒ FreedomToSpreadEarthseed"
+        }
+      }
+    }
+  ],
